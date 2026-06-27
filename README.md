@@ -1,7 +1,5 @@
 # AlphaBot: Autonomous AI Investment Research Agent
 
-**Built for the Altuni AI Labs Product Development Engineer (Intern) Assignment.**
-
 ## 📖 Overview
 AlphaBot is a stateful, cyclic AI agent built to research global companies and output a deterministic "Invest" or "Pass" verdict. It leverages an advanced LangGraph architecture to dynamically gather quantitative stock metrics and qualitative market sentiment, synthesize the data, and provide professional investment reasoning.
 
