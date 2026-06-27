@@ -98,7 +98,15 @@ To combat speculative market noise, the Evaluation Node prompt forces the LLM to
 *Note: A complete log of the LLM chat sessions detailing the architectural thought process and build iteration is included with this submission as requested.*
 
 ```
+## 📝 LLM Chat Transcripts (Bonus Points Submission)
 
+As requested, I have documented my entire architectural thought process and iterative building sessions with the LLM. 
+
+You can review the full transcript in two ways:
+1. **Attached PDF:** Please find `LLM_Chat_Transcripts.pdf` included in the root directory of this repository/zip file.
+2. **Live Link:** [Click here to view the live transcript document](https://share.gemini.google/xnO4cd9MywMq)
+
+This log details how I engineered the prompts, transitioned from a linear LangChain pipeline to a cyclic LangGraph architecture, and implemented defensive programming to handle unlisted startups.
 
 
 ```
